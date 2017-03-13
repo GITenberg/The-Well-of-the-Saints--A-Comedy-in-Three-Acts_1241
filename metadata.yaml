@@ -1,5 +1,8 @@
 _repo: The-Well-of-the-Saints--A-Comedy-in-Three-Acts_1241
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Synge, J. M. (John Millington)
@@ -15,6 +18,8 @@ description: Inspired by a medieval French farce, The Well of the Saints depicts
   blind married couple who have their sight miraculously restored by a traveling saint,
   only to discover that their happiness was based on illusions. Their hope of falling
   back in love depends on losing their sight once again.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1241#The-Well-of-the-Saints--A-Comedy-in-Three-Acts
 gutenberg_issued: '1998-03-01'
 gutenberg_type: Text
 identifiers:
